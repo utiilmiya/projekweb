@@ -1,0 +1,38 @@
+.tips-toolbar {
+    text-align: center;
+}
+
+.toolbar-link {
+    text-decoration: none;
+    background-color: #ff9ccf; 
+    color: #fff;
+    padding: 10px 20px;
+    margin: 5px;
+    border-radius: 30px; 
+    display: inline-block;
+    font-size: 16px;
+    border: 2px solid #ff9ccf; 
+    transition: background-color 0.3s, color 0.3s;
+}
+
+.toolbar-link:hover {
+    background-color: #ff75a8; 
+    border: 2px solid #ff75a8; 
+}
+
+.back-button {
+    display: block;
+    text-align: center;
+    margin-top: 20px;
+    text-decoration: none;
+    background-color: #ff3366;
+    color: #fff;
+    padding: 10px 20px;
+    border-radius: 5px;
+    font-size: 18px;
+}
+
+
+.back-button:hover {
+    background-color: #ff6699;
+}

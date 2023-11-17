@@ -1,0 +1,10 @@
+.navbar a {
+    text-decoration: none;
+    margin: 10px;
+    color: #fff;
+    background-color: #ff99cc; 
+}
+
+.navbar a:active {
+    background-color: #ff3366; 
+}

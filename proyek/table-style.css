@@ -1,0 +1,43 @@
+.feminine-table {
+    border-collapse: collapse;
+    width: 100%;
+    max-width: 600px;
+    margin: 0 auto;
+    text-align: center;
+}
+
+.feminine-table th {
+    background-color: #f7cccd;
+    color: #ff3366;
+    font-weight: bold;
+    padding: 10px;
+    border: 1px solid #ff3366;
+}
+
+.feminine-table td {
+    background-color: #ffe4e1;
+    color: #ff3366;
+    padding: 10px;
+    border: 1px solid #ff3366;
+}
+
+.feminine-table tr:nth-child(even) {
+    background-color: #fff;
+}
+
+.back-button {
+    display: block;
+    text-align: center;
+    margin-top: 20px;
+    text-decoration: none;
+    background-color: #ff3366;
+    color: #fff;
+    padding: 10px 20px;
+    border-radius: 5px;
+    font-size: 18px;
+}
+
+
+.back-button:hover {
+    background-color: #ff6699;
+}

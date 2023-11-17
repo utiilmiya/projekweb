@@ -1,0 +1,18 @@
+.skincare-toolbar {
+    text-align: center;
+    margin: 20px 0;
+}
+
+.toolbar-link {
+    text-decoration: none;
+    background-color: #3498db;
+    color: #fff;
+    padding: 10px 20px;
+    margin: 5px;
+    border-radius: 5px;
+    display: inline-block;
+}
+
+.toolbar-link:hover {
+    background-color: #2980b9;
+}
